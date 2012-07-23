@@ -1,0 +1,9 @@
+{
+  "name": "cloud-xbt",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request": "2.9.x",
+    "http-proxy": "0.8.x"
+  }
+}
