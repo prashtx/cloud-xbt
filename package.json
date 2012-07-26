@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "request": "2.9.x",
-    "http-proxy": "0.8.x"
+    "http-proxy": "0.8.x",
+    "connect": "2.4.x",
+    "connect-s3": "git://github.com/prashtx/connect-s3.git"
   },
   "engines" : {
-    "node": "~0.6.17"
+    "node": "0.6.x"
   }
 }
