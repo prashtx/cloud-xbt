@@ -6,7 +6,8 @@
     "request": "2.9.x",
     "http-proxy": "0.8.x",
     "connect": "2.4.x",
-    "connect-s3": "git://github.com/prashtx/connect-s3.git"
+    "connect-s3": "git://github.com/prashtx/connect-s3.git",
+    "domino": "1.0.0"
   },
   "engines" : {
     "node": "0.6.x"
